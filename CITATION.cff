@@ -12,8 +12,7 @@ authors:
   orcid: "Betty Geröllheimer (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
 - family-names: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
   given-names: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
-  orcid: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI
-YYY, RSE"
+  orcid: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
 title: "Weather Analyser"
 version: {here comes the software version}
 identifiers:
