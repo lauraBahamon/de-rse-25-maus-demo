@@ -1,29 +1,17 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Tina Mustermann
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist and
-project leader"
-  given-names: "Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-XXXX),
-MPI YYY, Meteorologist and project leader"
-  orcid: "Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI
-YYY, Meteorologist and project leader"
-- family-names: "Fred Feuerstein
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist"
-  given-names: "Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-XXXX),
-MPI YYY, Meteorologist"
-  orcid: "Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI
-YYY, Meteorologist"
-- family-names: "Betty Geröllheimer
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
-  given-names: "Betty Geröllheimer
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
-  orcid: "Betty Geröllheimer (https://orcid.org/XXXX-XXXX-XXXX-XXXX),
-MPI YYY, Master student"
-- family-names: "Hannah Codemichel
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
-  given-names: "Hannah Codemichel
-(https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
+- family-names: "Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist and project leader"
+  given-names: "Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist and project leader"
+  orcid: "Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist and project leader"
+- family-names: "Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist"
+  given-names: "Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist"
+  orcid: "Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Meteorologist"
+- family-names: "Betty Geröllheimer (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
+  given-names: "Betty Geröllheimer (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
+  orcid: "Betty Geröllheimer (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, Master student"
+- family-names: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
+  given-names: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI YYY, RSE"
   orcid: "Hannah Codemichel (https://orcid.org/XXXX-XXXX-XXXX-XXXX), MPI
 YYY, RSE"
 title: "Weather Analyser"
