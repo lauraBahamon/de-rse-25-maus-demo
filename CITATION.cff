@@ -9,10 +9,6 @@ authors:
   given-names: " Fred "
   orcid: " https://orcid.org/XXXX-XXXX-XXXX-XXXX "
   affiliation: " MPI YYY, Meteorologist "
-- family-names: " Geröllheimer "
-  given-names: " Betty "
-  orcid: " https://orcid.org/XXXX-XXXX-XXXX-XXXX) "
-  affiliation: " MPI YYY, Master student "
 title: "Weather Analyser"
 version: {here comes the software version}
 identifiers:
