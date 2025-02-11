@@ -17,8 +17,8 @@ contribute to research? (project/research_question/title):**
 Intended use: 1. To bundle all pipeline steps from the raw data from
 Automatic Weather Stations (AWS) to a final dashboard, 2. To allow for
 the download of the data in different formats Contribution to research:
-the software simplifies the quality control of the weather data, and
-prepares them for publication
+the software simplifies the quality control, and prepares them for
+publication
 
 **Who are the project participants that deal with this software?
 (project/partner):**
