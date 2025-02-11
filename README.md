@@ -27,8 +27,6 @@ publication
     Meteorologist and project leader
 -   Fred Feuerstein ( https://orcid.org/XXXX-XXXX-XXXX-XXXX ), MPI YYY,
     Meteorologist
--   Betty Geröllheimer ( https://orcid.org/XXXX-XXXX-XXXX-XXXX) ), MPI
-    YYY, Master student
 
 **What licences are on the third-party software components?
 (smp/software-license):**
