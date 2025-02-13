@@ -7,9 +7,9 @@ Weather Analyser
 **Which research field(s) does this software belong to?
 (project/research_field):**
 
-Natural Sciences / Atmospheric Science and Oceanography
+Naturwissenschaften / Atmosphären- und Meeresforschung
 
-Natural Sciences / Water Research
+Naturwissenschaften / Wasserforschung
 
 **What is the intended use of the software? How will your software
 contribute to research? (project/research_question/title):**
@@ -23,10 +23,8 @@ publication
 **Who are the project participants that deal with this software?
 (project/partner):**
 
--   Tina Mustermann ( https://orcid.org/XXXX-XXXX-XXXX-XXXX ), MPI YYY,
-    Meteorologist and project leader
--   Fred Feuerstein ( https://orcid.org/XXXX-XXXX-XXXX-XXXX ), MPI YYY,
-    Meteorologist
+-   Tina Mustermann (https://orcid.org/XXXX-XXXX-XXXX-X012), MPI YYY
+-   Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-X345), MPI YYY
 
 **What licences are on the third-party software components?
 (smp/software-license):**
